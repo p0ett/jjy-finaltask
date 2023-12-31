@@ -13,21 +13,21 @@
 3.1 智能合约设计  
 描述NFT合约的设计，包括NFT的mint、transfer、improve等功能。  
 
-3.2 合约代码示例（部分）  
+3.2 合约代码示例  
 [https://github.com/p0ett/jjy-finaltask/tree/master/nft/nft-marketplace-contracts-master](https://github.com/p0ett/jjy-finaltask/tree/master/nft/nft-marketplace-contracts-master)  
 
 4. 产品后端实现  
 4.1 后端架构设计  
 阐述后端的架构，包括API设计等。  
 
-4.2 后端代码示例（部分）  
+4.2 后端代码示例  
 [(https://github.com/p0ett/jjy-finaltask/tree/master/nft/nft-marketplace-back-097)](https://github.com/p0ett/jjy-finaltask/tree/master/nft/nft-marketplace-back-097)  
 
 5. 产品前端实现  
 5.1 前端架构设计  
 描述前端的架构，包括页面组件、状态管理等。  
 
-5.2 前端代码示例（部分）  
+5.2 前端代码示例  
 [(https://github.com/p0ett/jjy-finaltask/tree/master/nft/nft-marketplace-frontend-097)](https://github.com/p0ett/jjy-finaltask/tree/master/nft/nft-marketplace-frontend-097)  
 
 6. 产品开发心得体会  
